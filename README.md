@@ -1,4 +1,4 @@
-## Olá meu nome e Murilo Watanabe , jovem desenvolvedor de software e estudante do Instituto Federal Catarinense Campus Araquari.
+## Olá meu nome e Murilo Watanabe , sou desenvolvedor de software da SoftExpert.
 
 <div>
   <a href="https://github.com/MuriloWatanabe">
