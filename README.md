@@ -1,4 +1,3 @@
-## Olá meu nome e Murilo Watanabe , sou desenvolvedor de software da SoftExpert.
 
 <div>
   <a href="https://github.com/MuriloWatanabe">
